@@ -18,6 +18,7 @@ assignees: saitohiraku
 ## 何のために (For what):
 
 ## 期待する動作:
+[EpicIssue登録シート.xlsx](https://github.com/IT-WiZ-Dev/22410199-saitohiraku/files/11609343/EpicIssue.xlsx)
 
 ## Issueの完了条件:
 
